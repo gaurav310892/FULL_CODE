@@ -1,0 +1,521 @@
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Server listening on 0.0.0.0 port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Server listening on :: port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Received signal 15; terminating.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1270]: Server listening on 0.0.0.0 port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1270]: Server listening on :: port 22.
+Aug  6 17:27:51 vagrant-ubuntu-trusty-64 sshd[1124]: Accepted publickey for vagrant from 10.0.2.2 port 55238 ssh2: RSA dd:3b:b8:2e:85:04:06:e9:ab:ff:a8:0a:c0:04:6e:d6
+Aug  6 17:27:51 vagrant-ubuntu-trusty-64 sshd[1124]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:27:57 vagrant-ubuntu-trusty-64 sshd[1429]: Accepted publickey for vagrant from 10.0.2.2 port 55239 ssh2: RSA dd:3b:b8:2e:85:04:06:e9:ab:ff:a8:0a:c0:04:6e:d6
+Aug  6 17:27:57 vagrant-ubuntu-trusty-64 sshd[1429]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:28:07 vagrant-ubuntu-trusty-64 sshd[1429]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 17:28:07 vagrant-ubuntu-trusty-64 sshd[1789]: Accepted publickey for vagrant from 10.0.2.2 port 55240 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug  6 17:28:07 vagrant-ubuntu-trusty-64 sshd[1789]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sshd[1270]: Received signal 15; terminating.
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sshd[2056]: Server listening on 0.0.0.0 port 22.
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sshd[2056]: Server listening on :: port 22.
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:11 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 17:28:11 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 17:28:11 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:28:11 vagrant-ubuntu-trusty-64 sshd[1124]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 17:28:11 vagrant-ubuntu-trusty-64 sshd[1789]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 17:28:23 vagrant-ubuntu-trusty-64 sshd[2127]: Accepted publickey for vagrant from 10.0.2.2 port 55241 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug  6 17:28:23 vagrant-ubuntu-trusty-64 sshd[2127]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:29:11 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:ondrej/php5-5.6
+Aug  6 17:29:11 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:29:12 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:29:32 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get update
+Aug  6 17:29:32 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:40:45 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:40:50 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get update
+Aug  6 17:40:50 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:43:03 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:43:13 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install python-software-properties
+Aug  6 17:43:13 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:43:19 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:43:25 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:ondrej/php5-5.6
+Aug  6 17:43:25 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:43:27 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:43:53 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5
+Aug  6 17:43:53 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:46:39 vagrant-ubuntu-trusty-64 groupadd[3409]: group added to /etc/group: name=ssl-cert, GID=115
+Aug  6 17:46:40 vagrant-ubuntu-trusty-64 groupadd[3409]: group added to /etc/gshadow: name=ssl-cert
+Aug  6 17:46:40 vagrant-ubuntu-trusty-64 groupadd[3409]: new group: name=ssl-cert, GID=115
+Aug  6 17:46:58 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:47:40 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.6
+Aug  6 17:47:40 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:47:40 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:48:02 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/php -v
+Aug  6 17:48:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:48:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:48:24 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/service apache2 restart
+Aug  6 17:48:24 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:48:26 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:49:27 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php5.6
+Aug  6 17:49:27 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:49:27 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:49:31 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php
+Aug  6 17:49:31 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:49:31 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:49:43 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php5.5.9
+Aug  6 17:49:43 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:49:43 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:56:33 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php5
+Aug  6 17:56:33 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:56:33 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:56:46 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php5.5
+Aug  6 17:56:46 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 17:56:46 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 17:58:34 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt install mysql-server
+Aug  6 17:58:34 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:01:04 vagrant-ubuntu-trusty-64 groupadd[6802]: group added to /etc/group: name=mysql, GID=116
+Aug  6 18:01:04 vagrant-ubuntu-trusty-64 groupadd[6802]: group added to /etc/gshadow: name=mysql
+Aug  6 18:01:04 vagrant-ubuntu-trusty-64 groupadd[6802]: new group: name=mysql, GID=116
+Aug  6 18:01:04 vagrant-ubuntu-trusty-64 useradd[6808]: new user: name=mysql, UID=109, GID=116, home=/nonexistent, shell=/bin/false
+Aug  6 18:01:05 vagrant-ubuntu-trusty-64 chage[6813]: changed password expiry for mysql
+Aug  6 18:01:05 vagrant-ubuntu-trusty-64 chfn[6816]: changed user 'mysql' information
+Aug  6 18:02:11 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:02:21 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/add-apt-repository ppa:ondrej/php
+Aug  6 18:02:21 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:02:31 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:02:41 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get update
+Aug  6 18:02:41 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:03:04 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:03:06 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Aug  6 18:03:06 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:03:07 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:03:14 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.6
+Aug  6 18:03:14 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:03:15 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:03:34 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.6-mbstring php5.6-mcrypt php5.6-mysql php5.6-xml
+Aug  6 18:03:34 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:03:34 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:04:01 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5-mbstring php5-mcrypt php5-mysql php5-xml
+Aug  6 18:04:01 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:04:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:04:35 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5-mcrypt php5-mysql
+Aug  6 18:04:35 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:05:00 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:05:33 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5-mbstring
+Aug  6 18:05:33 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:05:33 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:05:39 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php-mbstring
+Aug  6 18:05:39 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:05:40 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:05:50 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.5.9-mbstring
+Aug  6 18:05:50 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:05:51 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:05:57 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.5-mbstring
+Aug  6 18:05:57 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:05:58 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:06:01 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.6-mbstring
+Aug  6 18:06:01 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:06:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:06:09 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.4-mbstring
+Aug  6 18:06:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:06:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:06:13 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.7-mbstring
+Aug  6 18:06:13 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:06:14 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:06:18 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.8-mbstring
+Aug  6 18:06:18 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:06:18 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:06:22 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.9-mbstring
+Aug  6 18:06:22 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:06:22 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:07:00 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install php5.0-mbstring
+Aug  6 18:07:00 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:07:01 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:07:37 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install libapache2-mod-php5
+Aug  6 18:07:37 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:07:37 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:09:01 vagrant-ubuntu-trusty-64 CRON[9505]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  6 18:09:01 vagrant-ubuntu-trusty-64 CRON[9505]: pam_unix(cron:session): session closed for user root
+Aug  6 18:10:52 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/service apache2 restart
+Aug  6 18:10:52 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:10:54 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:12:26 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php
+Aug  6 18:12:26 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:12:26 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:12:28 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/sbin/a2enmod php5
+Aug  6 18:12:28 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:12:28 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:13:10 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/wget https://github.com/ethicalhack3r/DVWA/archive/master.zip
+Aug  6 18:13:10 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:13:21 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:14:15 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/apt-get install unzip
+Aug  6 18:14:15 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:14:23 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:15:03 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/unzip master.zip -d html/
+Aug  6 18:15:03 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:15:03 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:16:06 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/bin/mv DVWA-master dvwa
+Aug  6 18:16:06 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:16:06 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:17:01 vagrant-ubuntu-trusty-64 CRON[9904]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  6 18:17:01 vagrant-ubuntu-trusty-64 CRON[9904]: pam_unix(cron:session): session closed for user root
+Aug  6 18:17:12 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/bin/mv config/config.inc.php.dist config/config.inc.php
+Aug  6 18:17:12 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:17:12 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:17:51 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/bin/mv config/config.inc.php.dist config/config.inc.php
+Aug  6 18:17:51 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:17:51 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:21:08 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/usr/bin/vi php.ini
+Aug  6 18:21:08 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:21:56 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:22:26 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/usr/sbin/service apache2 restart
+Aug  6 18:22:26 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:22:28 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:22:55 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/usr/bin/apt-get install php5.6-gd
+Aug  6 18:22:55 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:22:55 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:22:59 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/usr/bin/apt-get install php5-gd
+Aug  6 18:22:59 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:23:07 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:23:27 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/usr/sbin/service apache2 restart
+Aug  6 18:23:27 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:23:29 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:25:24 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/bin/chgrp www-data hackable/uploads
+Aug  6 18:25:24 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:25:24 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:25:32 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/bin/chgrp www-data /var/www/html/dvwa/external/phpids/0.6/lib/IDS/tmp/phpids_log.txt
+Aug  6 18:25:32 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:25:32 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:25:38 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/bin/chmod g+w hackable/uploads
+Aug  6 18:25:38 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:25:38 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:25:44 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/bin/chmod g+w /var/www/html/dvwa/external/phpids/0.6/lib/IDS/tmp/phpids_log.txt
+Aug  6 18:25:44 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:25:44 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:26:25 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa ; USER=root ; COMMAND=/usr/sbin/service apache2 restart
+Aug  6 18:26:25 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:26:27 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:31:47 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa/config ; USER=root ; COMMAND=/bin/cp config.inc.php config.inc.php-bkp
+Aug  6 18:31:47 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:31:47 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:32:26 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa/config ; USER=root ; COMMAND=/usr/bin/vi config.inc.php
+Aug  6 18:32:26 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:32:51 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:39:01 vagrant-ubuntu-trusty-64 CRON[10499]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug  6 18:39:01 vagrant-ubuntu-trusty-64 CRON[10499]: pam_unix(cron:session): session closed for user root
+Aug  6 18:41:54 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html/dvwa/config ; USER=root ; COMMAND=/bin/tar -cvf config.inc.php.tar config.inc.php
+Aug  6 18:41:54 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:41:54 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:43:17 vagrant-ubuntu-trusty-64 sshd[10534]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.33.1  user=vagrant
+Aug  6 18:43:20 vagrant-ubuntu-trusty-64 sshd[10534]: Failed password for vagrant from 192.168.33.1 port 55718 ssh2
+Aug  6 18:43:20 vagrant-ubuntu-trusty-64 sshd[10534]: error: Received disconnect from 192.168.33.1: 13: Unable to authenticate [preauth]
+Aug  6 18:43:29 vagrant-ubuntu-trusty-64 sshd[10536]: Accepted password for vagrant from 192.168.33.1 port 55719 ssh2
+Aug  6 18:43:29 vagrant-ubuntu-trusty-64 sshd[10536]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 18:43:52 vagrant-ubuntu-trusty-64 sshd[10635]: Accepted password for vagrant from 192.168.33.1 port 55722 ssh2
+Aug  6 18:43:52 vagrant-ubuntu-trusty-64 sshd[10635]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 18:44:53 vagrant-ubuntu-trusty-64 sshd[10635]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 18:47:31 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/var/www/html ; USER=root ; COMMAND=/usr/bin/vi info.php
+Aug  6 18:47:31 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:47:39 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:50:02 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/bin/tar -cvf php.ini.tar php.ini
+Aug  6 18:50:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:50:02 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:50:09 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/bin/mkdir gb
+Aug  6 18:50:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:50:09 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:50:34 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2 ; USER=root ; COMMAND=/bin/cp php.ini.tar gb
+Aug  6 18:50:34 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:50:34 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:50:49 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=pts/0 ; PWD=/etc/php5/apache2/gb ; USER=root ; COMMAND=/bin/tar -xvf php.ini.tar
+Aug  6 18:50:49 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug  6 18:50:49 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug  6 18:51:20 vagrant-ubuntu-trusty-64 sshd[10758]: Accepted password for vagrant from 192.168.33.1 port 55832 ssh2
+Aug  6 18:51:20 vagrant-ubuntu-trusty-64 sshd[10758]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 18:52:21 vagrant-ubuntu-trusty-64 sshd[10758]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 19:01:21 vagrant-ubuntu-trusty-64 sshd[10536]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 19:01:26 vagrant-ubuntu-trusty-64 sshd[2199]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Aug  6 19:01:26 vagrant-ubuntu-trusty-64 sshd[2127]: pam_unix(sshd:session): session closed for user vagrant
+Aug  6 19:01:35 vagrant-ubuntu-trusty-64 sshd[10960]: Accepted publickey for vagrant from 10.0.2.2 port 55974 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug  6 19:01:35 vagrant-ubuntu-trusty-64 sshd[10960]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 19:01:37 vagrant-ubuntu-trusty-64 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug  6 19:01:37 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug  6 19:01:37 vagrant-ubuntu-trusty-64 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:34 ubuntu11 systemd-logind[944]: Watching system buttons on /dev/input/event0 (Power Button)
+Aug 14 07:12:34 ubuntu11 systemd-logind[944]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Aug 14 07:12:34 ubuntu11 systemd-logind[944]: Watching system buttons on /dev/input/event4 (Video Bus)
+Aug 14 07:12:34 ubuntu11 systemd-logind[944]: New seat seat0.
+Aug 14 07:12:36 ubuntu11 sshd[1102]: Server listening on 0.0.0.0 port 22.
+Aug 14 07:12:36 ubuntu11 sshd[1102]: Server listening on :: port 22.
+Aug 14 07:12:41 ubuntu11 sshd[1243]: Accepted publickey for vagrant from 10.0.2.2 port 53794 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug 14 07:12:41 ubuntu11 sshd[1243]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:12:41 ubuntu11 systemd-logind[944]: New session 1 of user vagrant.
+Aug 14 07:12:46 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:46 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:46 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:46 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:46 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:46 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:46 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:46 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:47 ubuntu11 sshd[1102]: Received signal 15; terminating.
+Aug 14 07:12:47 ubuntu11 sshd[1711]: Server listening on 0.0.0.0 port 22.
+Aug 14 07:12:47 ubuntu11 sshd[1711]: Server listening on :: port 22.
+Aug 14 07:12:47 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:48 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:48 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:48 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:48 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 14 07:12:48 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:12:48 ubuntu11 sshd[1243]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 07:13:56 ubuntu11 sshd[1953]: Accepted publickey for vagrant from 10.0.2.2 port 53815 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug 14 07:13:56 ubuntu11 sshd[1953]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:13:56 ubuntu11 systemd-logind[944]: Removed session 1.
+Aug 14 07:13:56 ubuntu11 systemd-logind[944]: New session 2 of user vagrant.
+Aug 14 07:14:06 ubuntu11 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install docx2txt
+Aug 14 07:14:06 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug 14 07:14:20 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 07:15:08 ubuntu11 sshd[2331]: Accepted password for vagrant from 192.168.33.1 port 53821 ssh2
+Aug 14 07:15:08 ubuntu11 sshd[2331]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:15:08 ubuntu11 systemd-logind[944]: New session 3 of user vagrant.
+Aug 14 07:15:15 ubuntu11 sshd[2408]: Accepted password for vagrant from 192.168.33.1 port 53822 ssh2
+Aug 14 07:15:15 ubuntu11 sshd[2408]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:15:15 ubuntu11 systemd-logind[944]: New session 4 of user vagrant.
+Aug 14 07:16:16 ubuntu11 sshd[2408]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 07:17:01 ubuntu11 CRON[2492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 07:17:01 ubuntu11 CRON[2492]: pam_unix(cron:session): session closed for user root
+Aug 14 07:39:01 ubuntu11 CRON[2615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 07:39:02 ubuntu11 CRON[2615]: pam_unix(cron:session): session closed for user root
+Aug 14 07:43:09 ubuntu11 sshd[2640]: Accepted password for vagrant from 192.168.33.1 port 53983 ssh2
+Aug 14 07:43:09 ubuntu11 sshd[2640]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:43:09 ubuntu11 sshd[2641]: Accepted password for vagrant from 192.168.33.1 port 53982 ssh2
+Aug 14 07:43:09 ubuntu11 sshd[2641]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:43:09 ubuntu11 systemd-logind[944]: Removed session 4.
+Aug 14 07:43:09 ubuntu11 systemd-logind[944]: New session 5 of user vagrant.
+Aug 14 07:43:09 ubuntu11 systemd-logind[944]: New session 6 of user vagrant.
+Aug 14 07:44:09 ubuntu11 sshd[2640]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 07:45:00 ubuntu11 sshd[2641]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 07:45:00 ubuntu11 systemd-logind[944]: Removed session 5.
+Aug 14 07:45:42 ubuntu11 sshd[2920]: Accepted password for vagrant from 192.168.33.1 port 53992 ssh2
+Aug 14 07:45:42 ubuntu11 sshd[2920]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 07:45:42 ubuntu11 systemd-logind[944]: Removed session 6.
+Aug 14 07:45:42 ubuntu11 systemd-logind[944]: New session 7 of user vagrant.
+Aug 14 07:46:42 ubuntu11 sshd[2920]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 08:09:01 ubuntu11 CRON[3350]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 08:09:01 ubuntu11 CRON[3350]: pam_unix(cron:session): session closed for user root
+Aug 14 08:17:01 ubuntu11 CRON[4371]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 08:17:01 ubuntu11 CRON[4371]: pam_unix(cron:session): session closed for user root
+Aug 14 08:39:01 ubuntu11 CRON[4936]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 08:39:01 ubuntu11 CRON[4936]: pam_unix(cron:session): session closed for user root
+Aug 14 09:09:01 ubuntu11 CRON[5087]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 09:09:01 ubuntu11 CRON[5087]: pam_unix(cron:session): session closed for user root
+Aug 14 09:17:01 ubuntu11 CRON[5220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 09:17:01 ubuntu11 CRON[5220]: pam_unix(cron:session): session closed for user root
+Aug 14 09:39:01 ubuntu11 CRON[5244]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 09:39:01 ubuntu11 CRON[5244]: pam_unix(cron:session): session closed for user root
+Aug 14 10:09:01 ubuntu11 CRON[5468]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 10:09:01 ubuntu11 CRON[5468]: pam_unix(cron:session): session closed for user root
+Aug 14 10:17:02 ubuntu11 CRON[5657]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 10:17:02 ubuntu11 CRON[5657]: pam_unix(cron:session): session closed for user root
+Aug 14 10:39:01 ubuntu11 CRON[5935]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 10:39:01 ubuntu11 CRON[5935]: pam_unix(cron:session): session closed for user root
+Aug 14 11:09:01 ubuntu11 CRON[7576]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 11:09:01 ubuntu11 CRON[7576]: pam_unix(cron:session): session closed for user root
+Aug 14 11:17:01 ubuntu11 CRON[26878]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 11:17:01 ubuntu11 CRON[26878]: pam_unix(cron:session): session closed for user root
+Aug 14 11:39:01 ubuntu11 CRON[17060]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 11:39:01 ubuntu11 CRON[17060]: pam_unix(cron:session): session closed for user root
+Aug 14 12:09:01 ubuntu11 CRON[4056]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 12:09:01 ubuntu11 CRON[4056]: pam_unix(cron:session): session closed for user root
+Aug 14 12:17:01 ubuntu11 CRON[4235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 12:17:01 ubuntu11 CRON[4235]: pam_unix(cron:session): session closed for user root
+Aug 14 12:39:01 ubuntu11 CRON[4279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 12:39:01 ubuntu11 CRON[4279]: pam_unix(cron:session): session closed for user root
+Aug 14 13:09:01 ubuntu11 CRON[5239]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 13:09:01 ubuntu11 CRON[5239]: pam_unix(cron:session): session closed for user root
+Aug 14 13:17:01 ubuntu11 CRON[5470]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 13:17:01 ubuntu11 CRON[5470]: pam_unix(cron:session): session closed for user root
+Aug 14 13:29:26 ubuntu11 sudo:  vagrant : TTY=pts/0 ; PWD=/home/vagrant ; USER=root ; COMMAND=/usr/bin/apt-get install zip
+Aug 14 13:29:26 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by vagrant(uid=0)
+Aug 14 13:29:34 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 14 13:30:16 ubuntu11 sshd[8326]: Accepted password for vagrant from 192.168.33.1 port 54696 ssh2
+Aug 14 13:30:16 ubuntu11 sshd[8326]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 13:30:16 ubuntu11 systemd-logind[944]: Removed session 7.
+Aug 14 13:30:16 ubuntu11 systemd-logind[944]: New session 8 of user vagrant.
+Aug 14 13:30:16 ubuntu11 sshd[8325]: Accepted password for vagrant from 192.168.33.1 port 54697 ssh2
+Aug 14 13:30:16 ubuntu11 sshd[8325]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 13:30:16 ubuntu11 systemd-logind[944]: New session 9 of user vagrant.
+Aug 14 13:31:17 ubuntu11 sshd[8326]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 13:31:17 ubuntu11 sshd[8325]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 13:31:17 ubuntu11 systemd-logind[944]: Removed session 8.
+Aug 14 13:39:01 ubuntu11 CRON[8505]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 13:39:01 ubuntu11 CRON[8505]: pam_unix(cron:session): session closed for user root
+Aug 14 14:09:01 ubuntu11 CRON[8911]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 14:09:01 ubuntu11 CRON[8911]: pam_unix(cron:session): session closed for user root
+Aug 14 14:17:01 ubuntu11 CRON[9046]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 14:17:01 ubuntu11 CRON[9046]: pam_unix(cron:session): session closed for user root
+Aug 14 14:39:01 ubuntu11 CRON[9290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 14:39:01 ubuntu11 CRON[9290]: pam_unix(cron:session): session closed for user root
+Aug 14 15:09:01 ubuntu11 CRON[9915]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 15:09:02 ubuntu11 CRON[9915]: pam_unix(cron:session): session closed for user root
+Aug 14 15:17:01 ubuntu11 CRON[10294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 14 15:17:01 ubuntu11 CRON[10294]: pam_unix(cron:session): session closed for user root
+Aug 14 15:19:06 ubuntu11 sshd[10553]: Accepted password for vagrant from 192.168.33.1 port 60408 ssh2
+Aug 14 15:19:06 ubuntu11 sshd[10553]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 15:19:06 ubuntu11 systemd-logind[944]: Removed session 9.
+Aug 14 15:19:06 ubuntu11 systemd-logind[944]: New session 10 of user vagrant.
+Aug 14 15:19:06 ubuntu11 sshd[10552]: Accepted password for vagrant from 192.168.33.1 port 60407 ssh2
+Aug 14 15:19:06 ubuntu11 sshd[10552]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 14 15:19:06 ubuntu11 systemd-logind[944]: New session 11 of user vagrant.
+Aug 14 15:20:07 ubuntu11 sshd[10553]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 15:20:07 ubuntu11 sshd[10552]: pam_unix(sshd:session): session closed for user vagrant
+Aug 14 15:20:07 ubuntu11 systemd-logind[944]: Removed session 10.
+Aug 15 18:07:28 ubuntu11 systemd-logind[951]: Watching system buttons on /dev/input/event0 (Power Button)
+Aug 15 18:07:28 ubuntu11 systemd-logind[951]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Aug 15 18:07:28 ubuntu11 systemd-logind[951]: Watching system buttons on /dev/input/event5 (Video Bus)
+Aug 15 18:07:28 ubuntu11 systemd-logind[951]: New seat seat0.
+Aug 15 18:07:30 ubuntu11 sshd[1095]: Server listening on 0.0.0.0 port 22.
+Aug 15 18:07:30 ubuntu11 sshd[1095]: Server listening on :: port 22.
+Aug 15 18:07:33 ubuntu11 sshd[1182]: Accepted publickey for vagrant from 10.0.2.2 port 63802 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug 15 18:07:33 ubuntu11 sshd[1182]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 15 18:07:33 ubuntu11 systemd-logind[951]: New session 1 of user vagrant.
+Aug 15 18:07:38 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:38 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:38 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:38 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:38 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:38 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:39 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:39 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:39 ubuntu11 sshd[1095]: Received signal 15; terminating.
+Aug 15 18:07:39 ubuntu11 sshd[1706]: Server listening on 0.0.0.0 port 22.
+Aug 15 18:07:39 ubuntu11 sshd[1706]: Server listening on :: port 22.
+Aug 15 18:07:39 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:41 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:41 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:41 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:41 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Aug 15 18:07:41 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Aug 15 18:07:41 ubuntu11 sshd[1182]: pam_unix(sshd:session): session closed for user vagrant
+Aug 15 18:08:10 ubuntu11 sshd[1960]: Accepted publickey for vagrant from 10.0.2.2 port 63804 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug 15 18:08:10 ubuntu11 sshd[1960]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 15 18:08:10 ubuntu11 systemd-logind[951]: Removed session 1.
+Aug 15 18:08:10 ubuntu11 systemd-logind[951]: New session 2 of user vagrant.
+Aug 15 18:09:01 ubuntu11 CRON[2051]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 15 18:09:01 ubuntu11 CRON[2051]: pam_unix(cron:session): session closed for user root
+Aug 15 18:17:01 ubuntu11 CRON[2076]: pam_unix(cron:session): session opened for user root by (uid=0)
+Aug 15 18:17:01 ubuntu11 CRON[2076]: pam_unix(cron:session): session closed for user root
+Aug 15 18:36:18 ubuntu11 sshd[2026]: Received disconnect from 10.0.2.2: 11: disconnected by user
+Aug 15 18:36:18 ubuntu11 sshd[1960]: pam_unix(sshd:session): session closed for user vagrant
+Aug 15 18:36:30 ubuntu11 sshd[2370]: Accepted publickey for vagrant from 10.0.2.2 port 50700 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Aug 15 18:36:30 ubuntu11 sshd[2370]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug 15 18:36:30 ubuntu11 systemd-logind[951]: Removed session 2.
+Aug 15 18:36:30 ubuntu11 systemd-logind[951]: New session 3 of user vagrant.
+Aug 15 18:36:31 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Aug 15 18:36:31 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Sep 10 03:10:59 ubuntu11 systemd-logind[949]: Watching system buttons on /dev/input/event0 (Power Button)
+Sep 10 03:10:59 ubuntu11 systemd-logind[949]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Sep 10 03:10:59 ubuntu11 systemd-logind[949]: Watching system buttons on /dev/input/event5 (Video Bus)
+Sep 10 03:10:59 ubuntu11 systemd-logind[949]: New seat seat0.
+Sep 10 03:11:01 ubuntu11 sshd[1089]: Server listening on 0.0.0.0 port 22.
+Sep 10 03:11:01 ubuntu11 sshd[1089]: Server listening on :: port 22.
+Sep 10 03:11:11 ubuntu11 sshd[1243]: Accepted publickey for vagrant from 10.0.2.2 port 55169 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Sep 10 03:11:11 ubuntu11 sshd[1189]: fatal: Read from socket failed: Connection reset by peer [preauth]
+Sep 10 03:11:11 ubuntu11 sshd[1264]: fatal: Read from socket failed: Connection reset by peer [preauth]
+Sep 10 03:11:12 ubuntu11 sshd[1243]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Sep 10 03:11:12 ubuntu11 systemd-logind[949]: New session 1 of user vagrant.
+Sep 10 03:11:12 ubuntu11 sshd[1243]: pam_unix(sshd:session): session closed for user vagrant
+Sep 10 03:11:13 ubuntu11 sshd[1417]: fatal: Write failed: Broken pipe [preauth]
+Sep 10 03:17:01 ubuntu11 CRON[1640]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 03:17:01 ubuntu11 CRON[1640]: pam_unix(cron:session): session closed for user root
+Sep 10 03:39:01 ubuntu11 CRON[1654]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 03:39:01 ubuntu11 CRON[1654]: pam_unix(cron:session): session closed for user root
+Sep 10 04:09:01 ubuntu11 CRON[1798]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 04:09:01 ubuntu11 CRON[1798]: pam_unix(cron:session): session closed for user root
+Sep 10 04:17:01 ubuntu11 CRON[1931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 04:17:01 ubuntu11 CRON[1931]: pam_unix(cron:session): session closed for user root
+Sep 10 04:39:01 ubuntu11 CRON[1945]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 04:39:01 ubuntu11 CRON[1945]: pam_unix(cron:session): session closed for user root
+Sep 10 05:09:01 ubuntu11 CRON[2089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 05:09:01 ubuntu11 CRON[2089]: pam_unix(cron:session): session closed for user root
+Sep 10 05:17:01 ubuntu11 CRON[2222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 05:17:01 ubuntu11 CRON[2222]: pam_unix(cron:session): session closed for user root
+Sep 10 05:39:01 ubuntu11 CRON[2236]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 05:39:01 ubuntu11 CRON[2236]: pam_unix(cron:session): session closed for user root
+Sep 10 06:09:01 ubuntu11 CRON[2380]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 06:09:01 ubuntu11 CRON[2380]: pam_unix(cron:session): session closed for user root
+Sep 10 06:17:01 ubuntu11 CRON[2513]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 06:17:01 ubuntu11 CRON[2513]: pam_unix(cron:session): session closed for user root
+Sep 10 06:25:01 ubuntu11 CRON[2520]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 06:39:01 ubuntu11 CRON[2580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 10 06:39:02 ubuntu11 CRON[2580]: pam_unix(cron:session): session closed for user root
+Oct 20 13:17:10 ubuntu11 systemd-logind[963]: Watching system buttons on /dev/input/event0 (Power Button)
+Oct 20 13:17:10 ubuntu11 systemd-logind[963]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Oct 20 13:17:10 ubuntu11 systemd-logind[963]: Watching system buttons on /dev/input/event5 (Video Bus)
+Oct 20 13:17:10 ubuntu11 systemd-logind[963]: New seat seat0.
+Oct 20 13:17:12 ubuntu11 sshd[1078]: Server listening on 0.0.0.0 port 22.
+Oct 20 13:17:12 ubuntu11 sshd[1078]: Server listening on :: port 22.
+Oct 20 13:17:19 ubuntu11 sshd[1308]: Accepted publickey for vagrant from 10.0.2.2 port 57114 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Oct 20 13:17:19 ubuntu11 sshd[1308]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Oct 20 13:17:19 ubuntu11 systemd-logind[963]: New session 1 of user vagrant.
+Oct 20 13:17:23 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:23 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:23 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:23 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:23 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:23 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:23 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:23 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:24 ubuntu11 sshd[1078]: Received signal 15; terminating.
+Oct 20 13:17:24 ubuntu11 sshd[1874]: Server listening on 0.0.0.0 port 22.
+Oct 20 13:17:24 ubuntu11 sshd[1874]: Server listening on :: port 22.
+Oct 20 13:17:24 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:24 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:24 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:25 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:25 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:25 ubuntu11 sudo:  vagrant : TTY=unknown ; PWD=/home/vagrant ; USER=root ; COMMAND=/bin/bash -l
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct 20 13:17:25 ubuntu11 sudo: pam_unix(sudo:session): session closed for user root
+Oct 20 13:17:25 ubuntu11 sshd[1143]: fatal: Read from socket failed: Connection reset by peer [preauth]
+Oct 20 13:17:25 ubuntu11 sshd[1308]: pam_unix(sshd:session): session closed for user vagrant
+Oct 20 13:18:03 ubuntu11 sshd[1947]: Accepted publickey for vagrant from 10.0.2.2 port 57117 ssh2: RSA 81:a2:1d:e1:37:69:fa:65:e7:ff:8f:19:88:27:51:6d
+Oct 20 13:18:03 ubuntu11 sshd[1947]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Oct 20 13:18:03 ubuntu11 systemd-logind[963]: Removed session 1.
+Oct 20 13:18:03 ubuntu11 systemd-logind[963]: New session 2 of user vagrant.
+Oct 20 13:18:22 ubuntu11 su[2036]: Successful su for root by vagrant
+Oct 20 13:18:22 ubuntu11 su[2036]: + /dev/pts/0 vagrant:root
+Oct 20 13:18:22 ubuntu11 su[2036]: pam_unix(su:session): session opened for user root by vagrant(uid=1000)

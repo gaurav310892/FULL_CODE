@@ -1,0 +1,10 @@
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Server listening on 0.0.0.0 port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Server listening on :: port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1110]: Received signal 15; terminating.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1270]: Server listening on 0.0.0.0 port 22.
+Aug  6 17:27:45 vagrant-ubuntu-trusty-64 sshd[1270]: Server listening on :: port 22.
+Aug  6 17:27:51 vagrant-ubuntu-trusty-64 sshd[1124]: Accepted publickey for vagrant from 10.0.2.2 port 55238 ssh2: RSA dd:3b:b8:2e:85:04:06:e9:ab:ff:a8:0a:c0:04:6e:d6
+Aug  6 17:27:51 vagrant-ubuntu-trusty-64 sshd[1124]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:27:57 vagrant-ubuntu-trusty-64 sshd[1429]: Accepted publickey for vagrant from 10.0.2.2 port 55239 ssh2: RSA dd:3b:b8:2e:85:04:06:e9:ab:ff:a8:0a:c0:04:6e:d6
+Aug  6 17:27:57 vagrant-ubuntu-trusty-64 sshd[1429]: pam_unix(sshd:session): session opened for user vagrant by (uid=0)
+Aug  6 17:28:07 vagrant-ubuntu-trusty-64 sshd[1429]: pam_unix(sshd:session): session closed for user vagrant
